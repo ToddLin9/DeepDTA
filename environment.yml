@@ -1,0 +1,10 @@
+name: deepdta
+channels:
+  - defaults
+dependencies:
+  - python=2.7
+  - keras=2
+  - tensorflow=1
+  - tensorflow-gpu
+  - numpy
+  - matplotlib
